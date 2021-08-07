@@ -1,7 +1,7 @@
 # Reactron Boilerplate
 *Boilerplate integrando react com electron para criar uma aplicação desktop*
 <br/>
-<strong>*ReactJS v17.0.2 - Eelectron v13.1.8*</strong>
+<strong>*ReactJS v17.0.2 - Electron v13.1.8*</strong>
 <br/>
 ## Implementação
 
